@@ -1,4 +1,4 @@
 # MERN Stack Training
 
-To Start the server
+To start the server use
 ``` Yarn Start ```
